@@ -1,0 +1,8 @@
+diff a/Branch/Branch/Source.cpp b/Branch/Branch/Source.cpp	(rejected hunks)
+@@ -6,4 +6,5 @@
+ 
+ 	cout << "�}��������" << endl;
+ 	
++	cout << "��������" << endl;
+ }
+\ No newline at end of file
