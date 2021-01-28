@@ -6,4 +6,5 @@ int main () {
 
 	cout << "ƒ}ƒ‹‘‚¢‚½" << endl;
 	
+	cout << "æ‚èÁ‚µ‚½" << endl;
 }
